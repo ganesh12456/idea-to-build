@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Requirements Architect"
+  short_description: "Shape project ideas into traceable delivery requirements"
+  default_prompt: "Use $project-requirements-architect to turn my project idea into an eight-category requirements document and MVP plan."
